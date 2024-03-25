@@ -11,7 +11,7 @@
   - **시용 디바이스 -**  PC, GearVR (samsung Galaxy S8)     
   
   - **Unity -** 2019.3.15f Ver 
-  - **IDE -** visual studio community 2017  
+  - **IDE -** Visual Studio Community 2017  
 <br/>
 
 ### 3. 프로젝트 특징  
